@@ -1,0 +1,13 @@
+C:\Users\민트조아\Desktop\C# workspace\bin\Debug\netcoreapp3.1\C# workspace.exe
+C:\Users\민트조아\Desktop\C# workspace\bin\Debug\netcoreapp3.1\C# workspace.deps.json
+C:\Users\민트조아\Desktop\C# workspace\bin\Debug\netcoreapp3.1\C# workspace.runtimeconfig.json
+C:\Users\민트조아\Desktop\C# workspace\bin\Debug\netcoreapp3.1\C# workspace.runtimeconfig.dev.json
+C:\Users\민트조아\Desktop\C# workspace\bin\Debug\netcoreapp3.1\C# workspace.dll
+C:\Users\민트조아\Desktop\C# workspace\bin\Debug\netcoreapp3.1\C# workspace.pdb
+C:\Users\민트조아\Desktop\C# workspace\obj\Debug\netcoreapp3.1\C# workspace.csprojAssemblyReference.cache
+C:\Users\민트조아\Desktop\C# workspace\obj\Debug\netcoreapp3.1\C# workspace.AssemblyInfoInputs.cache
+C:\Users\민트조아\Desktop\C# workspace\obj\Debug\netcoreapp3.1\C# workspace.AssemblyInfo.cs
+C:\Users\민트조아\Desktop\C# workspace\obj\Debug\netcoreapp3.1\C# workspace.csproj.CoreCompileInputs.cache
+C:\Users\민트조아\Desktop\C# workspace\obj\Debug\netcoreapp3.1\C# workspace.dll
+C:\Users\민트조아\Desktop\C# workspace\obj\Debug\netcoreapp3.1\C# workspace.pdb
+C:\Users\민트조아\Desktop\C# workspace\obj\Debug\netcoreapp3.1\C# workspace.genruntimeconfig.cache
